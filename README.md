@@ -1,6 +1,6 @@
 # Example Website (portfolio) for developers
 This example was made for developers who need an example of a portfolio using just HTML and CSS.<br>
-Features a <code>download section</code> for your projects, <code>font awesome support</code>, <code>clean looking</code>, <code>custom wallpapers</code>,<br><code>downloading files via buttons</code>, download pages for your projects with screenshots and more.
+Features a <code>download section</code> for your projects, <code>font awesome support</code>, <code>clean looking</code>, <code>custom wallpapers</code>,<br><code>downloading files via buttons</code>, <code>clean footer</code>, section for <code>Patreons/Donators</code>, download pages for your projects with screenshots and more.
 
 
 ## This website was built with:
